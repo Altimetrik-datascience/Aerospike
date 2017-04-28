@@ -1,0 +1,5 @@
+### To view PK in aql ###
+
+set key_send true
+set output json
+set record_print_metadata true
